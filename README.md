@@ -21,21 +21,21 @@ I have also added api support to the app so it can be hosted directly. I tried t
 
 ### Example 1
 **Input**  
-![Input Image 1](media/input1.jpg)
+![Input Image 1](media/input1.png)
 
 **Output**  
 ![Output Model 1](media/output1.gif)
 
 ### Example 2
 **Input**  
-![Input Image 2](media/input2.jpg)
+![Input Image 2](media/input2.png)
 
 **Output**  
 ![Output Model 2](media/output2.gif)
 
 ### Example 3
 **Input**  
-![Input Image 3](media/input3.jpg)
+![Input Image 3](media/input3.png)
 
 **Output**  
 ![Output Model 3](media/output3.gif)
