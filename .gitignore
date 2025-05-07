@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Model and cache files
+shap_e_model_cache/
+*.pt
+*.yaml
+
+
+
+# System files
+.DS_Store
+Thumbs.db
