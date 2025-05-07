@@ -17,3 +17,6 @@ git+https://github.com/openai/shap-e.git
 ninja
 pyyaml>=6.0
 ipywidgets>=8.0.0
+fastapi
+uvicorn
+python-multipart
